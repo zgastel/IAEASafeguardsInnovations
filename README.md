@@ -1,5 +1,6 @@
 # Impacts of IAEA Safeguards Innovation
-This dataset contains selected data from IAEA Annual Reports from 1970 - 2022, complemented by annual IAEA Safeguards Statements. 
+This dataset contains selected data from IAEA Annual Reports from 1970 - 2022, complemented by annual IAEA Safeguards Statements. The data is described in additional detail in the open access journal article for which it was collected and analyzed: Gastelum, Z. N. (2024). Quantifying Safeguards Innovations: Impacts of Innovations on International Atomic Energy Agency Safeguards Inspection Effort. Journal for Peace and Nuclear Disarmament, 7(1), 236–263. https://doi.org/10.1080/25751654.2024.2364962
+Also available via the publisher at: https://www.tandfonline.com/doi/full/10.1080/25751654.2024.2364962
 
 **Acknowledgements**
 
